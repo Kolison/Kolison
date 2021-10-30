@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kolison
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on with all
+- 💞️ I’m looking to collaborate with all
 - 📫 How to reach me my discord Sordex#1338
 
 <!---
